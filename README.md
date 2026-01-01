@@ -1,5 +1,5 @@
-# 💫 About Me:
-Learn EVERYTHING<br>Currently working on Personal Projects.<br>
+# ⚽️ About Me:
+Learning new stuff everyday<br>
 
 
 ## 🌐 Socials:
