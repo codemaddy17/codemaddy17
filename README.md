@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Madhav 👋
+# Hey, I'm Madhav 
 
 **Frontend & Fullstack Developer • React.js • Java • Swift • JavaScript**
 
